@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://bitscode.dev/</loc>
+      <loc>https://bitscode.dev/privacy/</loc>
       
       <lastmod>2019-03-30T13:20:57+01:00</lastmod>
       
@@ -12,9 +12,17 @@
     </url>
   
     <url>
-      <loc>https://bitscode.dev/privacy/</loc>
+      <loc>https://bitscode.dev/contact/</loc>
       
       <lastmod>2019-03-30T13:20:57+01:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://bitscode.dev/</loc>
       
       
       
